@@ -1,0 +1,1 @@
+INCLUDE animations/avatar/chibi/sunbow_hero.txt

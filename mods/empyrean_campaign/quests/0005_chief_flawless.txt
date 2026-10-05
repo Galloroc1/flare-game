@@ -1,0 +1,7 @@
+name=无瑕暗影
+complete_status=chief_trial_flawless_claimed
+
+[quest]
+requires_status=chief_trial_flawless_ready
+requires_not_status=chief_trial_flawless_claimed
+quest_text=你无伤通过了三层暗影试炼。回堕落港找村长验收，领取特殊奖励。

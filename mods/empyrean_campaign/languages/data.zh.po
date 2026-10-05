@@ -22,6 +22,12 @@ msgstr ""
 "Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
+msgid "Reset Skill Points"
+msgstr "重置技能点"
+
+msgid "Refund spent skill points and reset learned powers."
+msgstr "退还已用技能点并重置已学习技能。"
+
 #: ../items/items.txt:8
 msgid "Gold"
 msgstr "金钱"
@@ -5744,3 +5750,414 @@ msgstr "哥布林窃贼偷了你的药水！"
 #: ../scripts/powers/respec_tome.txt:7
 msgid "All stat and power points have been reset."
 msgstr "所有属性点和技能点都已重置。"
+
+# Shadow Trial dungeon
+msgid "Shadow Trial Gatekeeper"
+msgstr "暗影试炼守门人"
+
+msgid "Shadow Trial"
+msgstr "暗影试炼"
+
+msgid "Choose a challenge. Clear three chambers and defeat the guardian to claim your reward."
+msgstr "选择难度，清空三间战斗室并击败守卫，领取通关奖励。"
+
+msgid "Veteran"
+msgstr "老兵"
+
+msgid "Champion"
+msgstr "勇士"
+
+msgid "Shadow Trial: First Chamber"
+msgstr "暗影试炼：第一间战斗室"
+
+msgid "Shadow Trial: Second Chamber"
+msgstr "暗影试炼：第二间战斗室"
+
+msgid "Shadow Trial: Guardian Chamber"
+msgstr "暗影试炼：最终战斗室"
+
+msgid "Shadow Trial Guardian"
+msgstr "暗影试炼守卫"
+
+msgid "Leave Shadow Trial"
+msgstr "离开暗影试炼"
+
+msgid "Next Chamber"
+msgstr "进入下一间战斗室"
+
+msgid "Next Floor"
+msgstr "进入下一层"
+
+msgid "Claim Shadow Trial Reward"
+msgstr "领取暗影试炼奖励"
+
+msgid "Return to Perdition Harbor"
+msgstr "返回堕落港"
+
+msgid "Sell all carried gear"
+msgstr "一键出售背包装备"
+
+msgid "Sell unequipped equipment in the backpack. Quest items and items without a price are kept."
+msgstr "出售背包内未装备的装备；任务物品和不可出售物品会保留。"
+
+msgid "Sold %d equipment stacks for %d %s."
+msgstr "已出售 %d 组装备，获得 %d %s。"
+
+msgid "No sellable equipment in the backpack."
+msgstr "背包中没有可出售的装备。"
+
+msgid "Shadowforged Shirt"
+msgstr "暗影锻造衬衫"
+
+msgid "Shadowforged Pants"
+msgstr "暗影锻造裤"
+
+msgid "Shadowforged Sandals"
+msgstr "暗影锻造凉鞋"
+
+msgid "Shadowforged Gloves"
+msgstr "暗影锻造手套"
+
+msgid "Shadowforged Dagger"
+msgstr "暗影锻造匕首"
+
+msgid "Shadowforged Slingshot"
+msgstr "暗影锻造弹弓"
+
+msgid "Shadowforged Wand"
+msgstr "暗影锻造法杖"
+
+msgid "Shadowforged Buckler"
+msgstr "暗影锻造盾"
+
+msgid "Shadowforged Belt"
+msgstr "暗影锻造腰带"
+
+msgid "Shadowforged Pendant"
+msgstr "暗影锻造项链"
+
+msgid "Shadowforged Spellbook"
+msgstr "暗影锻造咒书"
+
+msgid "Shadowforged Ring"
+msgstr "暗影锻造戒指"
+
+msgid "Shadowforged Leather Hood"
+msgstr "暗影锻造皮帽"
+
+msgid "Shadowforged Leather Tunic"
+msgstr "暗影锻造皮衣"
+
+msgid "Shadowforged Leather Pants"
+msgstr "暗影锻造皮裤"
+
+msgid "Shadowforged Leather Boots"
+msgstr "暗影锻造皮靴"
+
+msgid "Shadowforged Leather Gloves"
+msgstr "暗影锻造皮手套"
+
+msgid "Shadowforged Mage Hood"
+msgstr "暗影锻造法帽"
+
+msgid "Shadowforged Mage Vest"
+msgstr "暗影锻造法衣"
+
+msgid "Shadowforged Mage Skirt"
+msgstr "暗影锻造法裙"
+
+msgid "Shadowforged Mage Boots"
+msgstr "暗影锻造法靴"
+
+msgid "Shadowforged Mage Sleeves"
+msgstr "暗影锻造法袖"
+
+msgid "Shadowforged Shortsword"
+msgstr "暗影锻造短剑"
+
+msgid "Shadowforged Shortbow"
+msgstr "暗影锻造短弓"
+
+msgid "Shadowforged Rod"
+msgstr "暗影锻造短杖"
+
+msgid "Shadowforged Iron Buckler"
+msgstr "暗影锻造铁盾"
+
+msgid "Shadowforged Chain Coif"
+msgstr "暗影锻造链帽"
+
+msgid "Shadowforged Chain Cuirass"
+msgstr "暗影锻造链甲"
+
+msgid "Shadowforged Chain Greaves"
+msgstr "暗影锻造链护胫"
+
+msgid "Shadowforged Chain Boots"
+msgstr "暗影锻造链靴"
+
+msgid "Shadowforged Chain Gloves"
+msgstr "暗影锻造链手套"
+
+msgid "Shadowforged Wizard Hood"
+msgstr "暗影锻造巫师帽"
+
+msgid "Shadowforged Wizard Vest"
+msgstr "暗影锻造巫师背心"
+
+msgid "Shadowforged Wizard Skirt"
+msgstr "暗影锻造巫师裙"
+
+msgid "Shadowforged Wizard Boots"
+msgstr "暗影锻造巫师靴"
+
+msgid "Shadowforged Wizard Sleeves"
+msgstr "暗影锻造巫师袖套"
+
+msgid "Shadowforged Longsword"
+msgstr "暗影锻造长剑"
+
+msgid "Shadowforged Longbow"
+msgstr "暗影锻造长弓"
+
+msgid "Shadowforged Staff"
+msgstr "暗影锻造权杖"
+
+msgid "Shadowforged Tower Shield"
+msgstr "暗影锻造塔盾"
+
+msgid "Shadowforged Plate Helmet"
+msgstr "暗影锻造板盔"
+
+msgid "Shadowforged Plate Cuirass"
+msgstr "暗影锻造板甲"
+
+msgid "Shadowforged Plate Greaves"
+msgstr "暗影锻造板护胫"
+
+msgid "Shadowforged Plate Boots"
+msgstr "暗影锻造板靴"
+
+msgid "Shadowforged Plate Gauntlets"
+msgstr "暗影锻造板手套"
+
+msgid "Shadowforged Archwizard Hood"
+msgstr "暗影锻造大法师兜帽"
+
+msgid "Shadowforged Archwizard Vest"
+msgstr "暗影锻造大法师背心"
+
+msgid "Shadowforged Archwizard Skirt"
+msgstr "暗影锻造大法师裙"
+
+msgid "Shadowforged Archwizard Boots"
+msgstr "暗影锻造大法师靴"
+
+msgid "Shadowforged Archwizard Sleeves"
+msgstr "暗影锻造大法师袖套"
+
+msgid "Shadowforged Greatsword"
+msgstr "暗影锻造巨剑"
+
+msgid "Shadowforged Greatbow"
+msgstr "暗影锻造巨弓"
+
+msgid "Shadowforged Greatstaff"
+msgstr "暗影锻造巨杖"
+
+msgid "Shadowforged Crest Shield"
+msgstr "暗影锻造纹章盾"
+
+msgid "Shadowforged"
+msgstr "暗影锻造"
+
+# DNF-inspired class sets
+msgid "Crimson Vanguard Helm"
+msgstr "赤焰先锋 头盔"
+
+msgid "Crimson Vanguard Cuirass"
+msgstr "赤焰先锋 胸甲"
+
+msgid "Crimson Vanguard Greaves"
+msgstr "赤焰先锋 护腿"
+
+msgid "Crimson Vanguard Boots"
+msgstr "赤焰先锋 长靴"
+
+msgid "Crimson Vanguard Gloves"
+msgstr "赤焰先锋 手套"
+
+msgid "Crimson Vanguard Greatweapon"
+msgstr "赤焰先锋 巨剑"
+
+msgid "Crimson Vanguard"
+msgstr "赤焰先锋"
+
+msgid "Windrunner's Oath Helm"
+msgstr "逐风者誓约 头盔"
+
+msgid "Windrunner's Oath Cuirass"
+msgstr "逐风者誓约 胸甲"
+
+msgid "Windrunner's Oath Greaves"
+msgstr "逐风者誓约 护腿"
+
+msgid "Windrunner's Oath Boots"
+msgstr "逐风者誓约 长靴"
+
+msgid "Windrunner's Oath Gloves"
+msgstr "逐风者誓约 手套"
+
+msgid "Windrunner's Oath Greatweapon"
+msgstr "逐风者誓约 长弓"
+
+msgid "Windrunner's Oath"
+msgstr "逐风者誓约"
+
+msgid "Starfall Arcanum Helm"
+msgstr "星落秘典 头盔"
+
+msgid "Starfall Arcanum Cuirass"
+msgstr "星落秘典 胸甲"
+
+msgid "Starfall Arcanum Greaves"
+msgstr "星落秘典 护腿"
+
+msgid "Starfall Arcanum Boots"
+msgstr "星落秘典 长靴"
+
+msgid "Starfall Arcanum Gloves"
+msgstr "星落秘典 手套"
+
+msgid "Starfall Arcanum Greatweapon"
+msgstr "星落秘典 法杖"
+
+msgid "Starfall Arcanum"
+msgstr "星落秘典"
+
+msgid "Titanbreaker Plate Helm"
+msgstr "破岳战铠 头盔"
+
+msgid "Titanbreaker Plate Cuirass"
+msgstr "破岳战铠 胸甲"
+
+msgid "Titanbreaker Plate Greaves"
+msgstr "破岳战铠 护腿"
+
+msgid "Titanbreaker Plate Boots"
+msgstr "破岳战铠 长靴"
+
+msgid "Titanbreaker Plate Gloves"
+msgstr "破岳战铠 手套"
+
+msgid "Titanbreaker Plate Greatweapon"
+msgstr "破岳战铠 巨剑"
+
+msgid "Titanbreaker Plate"
+msgstr "破岳战铠"
+
+msgid "Silent Gale Leather Helm"
+msgstr "静风猎装 头盔"
+
+msgid "Silent Gale Leather Cuirass"
+msgstr "静风猎装 胸甲"
+
+msgid "Silent Gale Leather Greaves"
+msgstr "静风猎装 护腿"
+
+msgid "Silent Gale Leather Boots"
+msgstr "静风猎装 长靴"
+
+msgid "Silent Gale Leather Gloves"
+msgstr "静风猎装 手套"
+
+msgid "Silent Gale Leather Greatweapon"
+msgstr "静风猎装 长弓"
+
+msgid "Silent Gale Leather"
+msgstr "静风猎装"
+
+msgid "Astral Current Robes Helm"
+msgstr "星流法袍 头盔"
+
+msgid "Astral Current Robes Cuirass"
+msgstr "星流法袍 胸甲"
+
+msgid "Astral Current Robes Greaves"
+msgstr "星流法袍 护腿"
+
+msgid "Astral Current Robes Boots"
+msgstr "星流法袍 长靴"
+
+msgid "Astral Current Robes Gloves"
+msgstr "星流法袍 手套"
+
+msgid "Astral Current Robes Greatweapon"
+msgstr "星流法袍 法杖"
+
+msgid "Astral Current Robes"
+msgstr "星流法袍"
+
+msgid "Dragonheart Bulwark Helm"
+msgstr "龙心壁垒 头盔"
+
+msgid "Dragonheart Bulwark Cuirass"
+msgstr "龙心壁垒 胸甲"
+
+msgid "Dragonheart Bulwark Greaves"
+msgstr "龙心壁垒 护腿"
+
+msgid "Dragonheart Bulwark Boots"
+msgstr "龙心壁垒 长靴"
+
+msgid "Dragonheart Bulwark Gloves"
+msgstr "龙心壁垒 手套"
+
+msgid "Dragonheart Bulwark Greatweapon"
+msgstr "龙心壁垒 巨剑"
+
+msgid "Dragonheart Bulwark"
+msgstr "龙心壁垒"
+
+msgid "Tempest Stalker Helm"
+msgstr "风暴追猎者 头盔"
+
+msgid "Tempest Stalker Cuirass"
+msgstr "风暴追猎者 胸甲"
+
+msgid "Tempest Stalker Greaves"
+msgstr "风暴追猎者 护腿"
+
+msgid "Tempest Stalker Boots"
+msgstr "风暴追猎者 长靴"
+
+msgid "Tempest Stalker Gloves"
+msgstr "风暴追猎者 手套"
+
+msgid "Tempest Stalker Greatweapon"
+msgstr "风暴追猎者 长弓"
+
+msgid "Tempest Stalker"
+msgstr "风暴追猎者"
+
+msgid "Celestial Convergence Helm"
+msgstr "天穹汇流 头盔"
+
+msgid "Celestial Convergence Cuirass"
+msgstr "天穹汇流 胸甲"
+
+msgid "Celestial Convergence Greaves"
+msgstr "天穹汇流 护腿"
+
+msgid "Celestial Convergence Boots"
+msgstr "天穹汇流 长靴"
+
+msgid "Celestial Convergence Gloves"
+msgstr "天穹汇流 手套"
+
+msgid "Celestial Convergence Greatweapon"
+msgstr "天穹汇流 法杖"
+
+msgid "Celestial Convergence"
+msgstr "天穹汇流"
+

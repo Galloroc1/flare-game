@@ -1,0 +1,37 @@
+name=Shadow Trial Gatekeeper
+animations=animations/npcs/return_obelisk1.txt
+talker=true
+
+[dialog]
+topic=Shadow Trial
+response=dnf_normal
+response=dnf_veteran
+response=dnf_champion
+him=Choose a challenge. Clear three chambers and defeat the guardian to claim your reward.
+
+[dialog]
+id=dnf_normal
+topic=Normal
+response_only=true
+unset_status=dnf_normal,dnf_veteran,dnf_champion,dnf_room_1_clear,dnf_room_2_clear,dnf_room_3_clear,dnf_rewarded
+set_status=dnf_normal
+intermap=maps/dnf_arena_1.txt,21,37
+soundfx=soundfx/environment/teleporter.ogg,0,0
+
+[dialog]
+id=dnf_veteran
+topic=Veteran
+response_only=true
+unset_status=dnf_normal,dnf_veteran,dnf_champion,dnf_room_1_clear,dnf_room_2_clear,dnf_room_3_clear,dnf_rewarded
+set_status=dnf_veteran
+intermap=maps/dnf_arena_1.txt,21,37
+soundfx=soundfx/environment/teleporter.ogg,0,0
+
+[dialog]
+id=dnf_champion
+topic=Champion
+response_only=true
+unset_status=dnf_normal,dnf_veteran,dnf_champion,dnf_room_1_clear,dnf_room_2_clear,dnf_room_3_clear,dnf_rewarded
+set_status=dnf_champion
+intermap=maps/dnf_arena_1.txt,21,37
+soundfx=soundfx/environment/teleporter.ogg,0,0

@@ -1,0 +1,14 @@
+name=村长的旧事
+complete_status=chief_old_story_claimed
+
+[quest]
+requires_status=chief_old_story_accepted
+requires_not_status=chief_old_story_claimed
+requires_not_item=1150:1
+quest_text=在堕落港洞穴入口附近寻找旧箱子，取回冒险者的信物交给村长。
+
+[quest]
+requires_status=chief_old_story_accepted
+requires_not_status=chief_old_story_claimed
+requires_item=1150:1
+quest_text=信物已找到。回堕落港找村长验收，领取守望之戒。

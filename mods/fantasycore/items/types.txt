@@ -3,38 +3,47 @@
 [type]
 id=main
 name=Main Hand
+auto_pickup=true
 
 [type]
 id=off
 name=Off Hand
+auto_pickup=true
 
 [type]
 id=head
 name=Head
+auto_pickup=true
 
 [type]
 id=chest
 name=Torso
+auto_pickup=true
 
 [type]
 id=hands
 name=Hands
+auto_pickup=true
 
 [type]
 id=legs
 name=Legs
+auto_pickup=true
 
 [type]
 id=feet
 name=Feet
+auto_pickup=true
 
 [type]
 id=artifact
 name=Artifact
+auto_pickup=true
 
 [type]
 id=ring
 name=Ring
+auto_pickup=true
 
 # Carried types
 
@@ -66,4 +75,3 @@ auto_actionbar=true
 
 [settings]
 sort_order=main,off,head,chest,hands,legs,feet,artifact,ring,potion,scroll,consumable,gem,book,key
-

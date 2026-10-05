@@ -200,3 +200,26 @@ type=npc
 location=2,11,1,1
 filename=npcs/iron_labyrinth_teleporter.txt
 
+[event]
+# The old keepsake is revealed only after accepting the chief's discovered quest.
+type=event
+location=15,8,1,1
+activate=on_load
+requires_status=chief_old_story_accepted
+requires_not_status=chief_old_story_found
+mapmod=object,15,8,176
+
+[event]
+type=event
+location=15,8,1,1
+activate=on_trigger
+hotspot=location
+requires_status=chief_old_story_accepted
+requires_not_status=chief_old_story_found,chief_old_story_claimed
+reward_item=1150:1
+set_status=chief_old_story_found
+mapmod=object,15,8,177
+repeat=false
+soundfx=soundfx/wood_open.ogg
+tooltip=旧箱子
+msg=旧箱子里留着一件冒险者的信物。带回去给村长看看吧。

@@ -13,5 +13,7 @@ lifespan=533ms
 radius=1.0
 speed=24
 requires_flags=ranged
+piercing_passive_id=755
+elemental_passive_id=756
 post_hazards_skip_target=true
 modifier_damage=multiply,75

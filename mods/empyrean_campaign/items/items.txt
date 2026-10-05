@@ -48,6 +48,9 @@ INCLUDE items/categories/level_16_unique.txt
 
 # Base Mastite items (432-493)
 INCLUDE items/categories/mastite.txt
+INCLUDE items/categories/dnf_boss.txt
+INCLUDE items/categories/class_sets.txt
+INCLUDE items/categories/chief_secrets.txt
 
 # Crafting items (starts at 750)
 INCLUDE items/categories/crafting.txt

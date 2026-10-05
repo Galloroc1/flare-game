@@ -1,0 +1,11 @@
+INCLUDE enemies/il_skeleton_knight.txt
+
+name=Shadow Trial Guardian
+categories=dnf_boss
+rarity=rare
+stat=hp,180
+stat_per_level=hp,45
+xp=20
+loot=loot/dnf_boss.txt
+# Two to three guaranteed equipment rolls, plus the existing fixed currency.
+loot_count=2,3

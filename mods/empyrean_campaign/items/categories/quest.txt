@@ -502,3 +502,11 @@ no_stash=all
 pickup_status=emp_il_notes_7
 book=books/il_notes_7.txt
 
+[item]
+id=1150
+name=冒险者的信物
+INCLUDE items/base/misc/book.txt
+quest_item=true
+quality=unique
+no_stash=all
+pickup_status=chief_old_story_found

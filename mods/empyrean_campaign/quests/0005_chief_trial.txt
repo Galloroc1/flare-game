@@ -1,0 +1,14 @@
+name=初试暗影
+complete_status=chief_trial_claimed
+
+[quest]
+requires_status=chief_trial_accepted
+requires_not_status=chief_trial_claimed
+requires_not_status=chief_trial_ready
+quest_text=清完暗影试炼第三层，然后回村找村长验收。
+
+[quest]
+requires_status=chief_trial_accepted
+requires_not_status=chief_trial_claimed
+requires_status=chief_trial_ready
+quest_text=目标完成，回堕落港找村长提交并领取奖励。

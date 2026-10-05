@@ -5,6 +5,8 @@ icon=18
 new_state=shoot
 face=true
 requires_flags=ranged
+piercing_passive_id=755
+elemental_passive_id=756
 base_damage=ranged
 aim_assist=true
 count=10
@@ -21,4 +23,3 @@ soundfx=soundfx/powers/shoot.ogg
 post_power=158
 trait_elemental=fire
 post_effect=fire_weakness,-75,5s
-

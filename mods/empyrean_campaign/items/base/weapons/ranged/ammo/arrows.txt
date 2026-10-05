@@ -12,6 +12,11 @@ replace_power=54,64
 
 # rapid fire
 replace_power=65,75
+replace_power=750,770
+replace_power=751,771
+replace_power=752,772
+replace_power=753,779
+replace_power=754,782
 replace_power=66,76
 replace_power=67,77
 replace_power=68,78
@@ -44,4 +49,3 @@ replace_power=332,342
 replace_power=333,343
 replace_power=334,344
 replace_power=335,345
-

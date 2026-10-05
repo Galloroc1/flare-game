@@ -3,6 +3,9 @@ icon=23
 description=Fire five low power missiles in quick succession
 new_state=shoot
 face=true
+multitarget=true
+piercing_passive_id=203
+elemental_passive_id=204
 requires_mp=3
 base_damage=ranged
 starting_pos=melee
@@ -18,4 +21,3 @@ starting_pos=melee
 lifespan=533ms
 radius=1.0
 speed=24
-

@@ -1,0 +1,14 @@
+name=清理村外威胁
+complete_status=chief_goblins_claimed
+
+[quest]
+requires_status=chief_goblins_accepted
+requires_not_status=chief_goblins_claimed
+requires_not_status=chief_goblins_ready
+quest_text=击杀5只哥布林（接取后计数），完成后回村提交。
+
+[quest]
+requires_status=chief_goblins_accepted
+requires_not_status=chief_goblins_claimed
+requires_status=chief_goblins_ready
+quest_text=目标完成，回堕落港找村长提交并领取奖励。

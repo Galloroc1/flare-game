@@ -7,8 +7,11 @@ soundfx=soundfx/powers/shoot.ogg
 use_hazard=true
 starting_pos=melee
 aim_assist=true
+double_shot_eligible=true
+piercing_passive_id=203
+elemental_passive_id=204
+multitarget=true
 base_damage=ranged
 lifespan=533ms
 radius=1.0
 speed=24
-

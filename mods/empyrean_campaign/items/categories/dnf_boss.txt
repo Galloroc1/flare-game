@@ -1,0 +1,450 @@
+# Shadow Trial boss equipment. Higher item level and more bonuses than Mastite drops.
+
+[item]
+id=1500
+name=Shadowforged Shirt
+INCLUDE items/base/armor/cloth/chest.txt
+INCLUDE items/scaling/mastite_armor/default/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1501
+name=Shadowforged Pants
+INCLUDE items/base/armor/cloth/legs.txt
+INCLUDE items/scaling/mastite_armor/default/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1502
+name=Shadowforged Sandals
+INCLUDE items/base/armor/cloth/feet.txt
+INCLUDE items/scaling/mastite_armor/default/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1503
+name=Shadowforged Gloves
+INCLUDE items/base/armor/cloth/hands.txt
+INCLUDE items/scaling/mastite_armor/default/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1504
+name=Shadowforged Dagger
+INCLUDE items/base/weapons/melee/dagger.txt
+INCLUDE items/scaling/mastite_weapon/melee.txt
+randomizer_def=items/random/dnf_boss_melee.txt
+
+[item]
+id=1505
+name=Shadowforged Slingshot
+INCLUDE items/base/weapons/ranged/slingshot.txt
+INCLUDE items/scaling/mastite_weapon/ranged.txt
+randomizer_def=items/random/dnf_boss_ranged.txt
+
+[item]
+id=1506
+name=Shadowforged Wand
+INCLUDE items/base/weapons/magic/wand.txt
+INCLUDE items/scaling/mastite_weapon/mental.txt
+randomizer_def=items/random/dnf_boss_mental.txt
+
+[item]
+id=1507
+name=Shadowforged Buckler
+INCLUDE items/base/shields/wood.txt
+INCLUDE items/scaling/mastite_armor/shield.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1508
+name=Shadowforged Belt
+INCLUDE items/base/armor/belt.txt
+INCLUDE items/scaling/mastite_accessory/belt.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1509
+name=Shadowforged Pendant
+INCLUDE items/base/necklaces/gold_1.txt
+INCLUDE items/scaling/mastite_accessory/pendant.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1510
+name=Shadowforged Pendant
+INCLUDE items/base/necklaces/gold_2.txt
+INCLUDE items/scaling/mastite_accessory/pendant.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1511
+name=Shadowforged Pendant
+INCLUDE items/base/necklaces/silver_1.txt
+INCLUDE items/scaling/mastite_accessory/pendant.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1512
+name=Shadowforged Pendant
+INCLUDE items/base/necklaces/silver_2.txt
+INCLUDE items/scaling/mastite_accessory/pendant.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1513
+name=Shadowforged Spellbook
+INCLUDE items/base/misc/spellbook.txt
+INCLUDE items/scaling/mastite_accessory/spellbook.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1514
+name=Shadowforged Ring
+INCLUDE items/base/rings/gold_5.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic_fire.txt
+
+[item]
+id=1515
+name=Shadowforged Ring
+INCLUDE items/base/rings/silver_4.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic_ice.txt
+
+[item]
+id=1516
+name=Shadowforged Ring
+INCLUDE items/base/rings/silver_5.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic_lightning.txt
+
+[item]
+id=1517
+name=Shadowforged Ring
+INCLUDE items/base/rings/gold_3.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic_dark.txt
+
+[item]
+id=1518
+name=Shadowforged Ring
+INCLUDE items/base/rings/silver_2.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1519
+name=Shadowforged Ring
+INCLUDE items/base/rings/gold_2.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1520
+name=Shadowforged Ring
+INCLUDE items/base/rings/gold_4.txt
+INCLUDE items/scaling/mastite_accessory/ring.txt
+randomizer_def=items/random/dnf_boss_magic.txt
+
+[item]
+id=1521
+name=Shadowforged Leather Hood
+INCLUDE items/base/armor/leather/head.txt
+INCLUDE items/scaling/mastite_armor/default/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1522
+name=Shadowforged Leather Tunic
+INCLUDE items/base/armor/leather/chest.txt
+INCLUDE items/scaling/mastite_armor/default/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1523
+name=Shadowforged Leather Pants
+INCLUDE items/base/armor/leather/legs.txt
+INCLUDE items/scaling/mastite_armor/default/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1524
+name=Shadowforged Leather Boots
+INCLUDE items/base/armor/leather/feet.txt
+INCLUDE items/scaling/mastite_armor/default/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1525
+name=Shadowforged Leather Gloves
+INCLUDE items/base/armor/leather/hands.txt
+INCLUDE items/scaling/mastite_armor/default/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1526
+name=Shadowforged Mage Hood
+INCLUDE items/base/armor/mage/head.txt
+INCLUDE items/scaling/mastite_armor/mage/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1527
+name=Shadowforged Mage Vest
+INCLUDE items/base/armor/mage/chest.txt
+INCLUDE items/scaling/mastite_armor/mage/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1528
+name=Shadowforged Mage Skirt
+INCLUDE items/base/armor/mage/legs.txt
+INCLUDE items/scaling/mastite_armor/mage/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1529
+name=Shadowforged Mage Boots
+INCLUDE items/base/armor/mage/feet.txt
+INCLUDE items/scaling/mastite_armor/mage/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1530
+name=Shadowforged Mage Sleeves
+INCLUDE items/base/armor/mage/hands.txt
+INCLUDE items/scaling/mastite_armor/mage/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1531
+name=Shadowforged Shortsword
+INCLUDE items/base/weapons/melee/shortsword.txt
+INCLUDE items/scaling/mastite_weapon/melee.txt
+randomizer_def=items/random/dnf_boss_melee.txt
+
+[item]
+id=1532
+name=Shadowforged Shortbow
+INCLUDE items/base/weapons/ranged/shortbow.txt
+INCLUDE items/scaling/mastite_weapon/ranged.txt
+randomizer_def=items/random/dnf_boss_ranged.txt
+
+[item]
+id=1533
+name=Shadowforged Rod
+INCLUDE items/base/weapons/magic/rod.txt
+INCLUDE items/scaling/mastite_weapon/mental.txt
+randomizer_def=items/random/dnf_boss_mental.txt
+
+[item]
+id=1534
+name=Shadowforged Iron Buckler
+INCLUDE items/base/shields/iron.txt
+INCLUDE items/scaling/mastite_armor/shield.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+# chain armor
+
+[item]
+id=1535
+name=Shadowforged Chain Coif
+INCLUDE items/base/armor/chain/head.txt
+INCLUDE items/scaling/mastite_armor/default/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1536
+name=Shadowforged Chain Cuirass
+INCLUDE items/base/armor/chain/chest.txt
+INCLUDE items/scaling/mastite_armor/default/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1537
+name=Shadowforged Chain Greaves
+INCLUDE items/base/armor/chain/legs.txt
+INCLUDE items/scaling/mastite_armor/default/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1538
+name=Shadowforged Chain Boots
+INCLUDE items/base/armor/chain/feet.txt
+INCLUDE items/scaling/mastite_armor/default/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1539
+name=Shadowforged Chain Gloves
+INCLUDE items/base/armor/chain/hands.txt
+INCLUDE items/scaling/mastite_armor/default/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+# wizard (mage) robes
+
+[item]
+id=1540
+name=Shadowforged Wizard Hood
+INCLUDE items/base/armor/mage_alt1/head.txt
+INCLUDE items/scaling/mastite_armor/mage/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1541
+name=Shadowforged Wizard Vest
+INCLUDE items/base/armor/mage_alt1/chest.txt
+INCLUDE items/scaling/mastite_armor/mage/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1542
+name=Shadowforged Wizard Skirt
+INCLUDE items/base/armor/mage_alt1/legs.txt
+INCLUDE items/scaling/mastite_armor/mage/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1543
+name=Shadowforged Wizard Boots
+INCLUDE items/base/armor/mage_alt1/feet.txt
+INCLUDE items/scaling/mastite_armor/mage/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1544
+name=Shadowforged Wizard Sleeves
+INCLUDE items/base/armor/mage_alt1/hands.txt
+INCLUDE items/scaling/mastite_armor/mage/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1545
+name=Shadowforged Longsword
+INCLUDE items/base/weapons/melee/longsword.txt
+INCLUDE items/scaling/mastite_weapon/melee.txt
+randomizer_def=items/random/dnf_boss_melee.txt
+
+[item]
+id=1546
+name=Shadowforged Longbow
+INCLUDE items/base/weapons/ranged/longbow.txt
+INCLUDE items/scaling/mastite_weapon/ranged.txt
+randomizer_def=items/random/dnf_boss_ranged.txt
+
+[item]
+id=1547
+name=Shadowforged Staff
+INCLUDE items/base/weapons/magic/staff.txt
+INCLUDE items/scaling/mastite_weapon/mental.txt
+randomizer_def=items/random/dnf_boss_mental.txt
+
+[item]
+id=1548
+name=Shadowforged Tower Shield
+INCLUDE items/base/shields/steel.txt
+INCLUDE items/scaling/mastite_armor/shield.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+# plate armor
+
+[item]
+id=1549
+name=Shadowforged Plate Helmet
+INCLUDE items/base/armor/plate/head.txt
+INCLUDE items/scaling/mastite_armor/default/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1550
+name=Shadowforged Plate Cuirass
+INCLUDE items/base/armor/plate/chest.txt
+INCLUDE items/scaling/mastite_armor/default/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1551
+name=Shadowforged Plate Greaves
+INCLUDE items/base/armor/plate/legs.txt
+INCLUDE items/scaling/mastite_armor/default/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1552
+name=Shadowforged Plate Boots
+INCLUDE items/base/armor/plate/feet.txt
+INCLUDE items/scaling/mastite_armor/default/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1553
+name=Shadowforged Plate Gauntlets
+INCLUDE items/base/armor/plate/hands.txt
+INCLUDE items/scaling/mastite_armor/default/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+# archwizard (mage) robes
+
+[item]
+id=1554
+name=Shadowforged Archwizard Hood
+INCLUDE items/base/armor/mage_alt2/head.txt
+INCLUDE items/scaling/mastite_armor/mage/head.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1555
+name=Shadowforged Archwizard Vest
+INCLUDE items/base/armor/mage_alt2/chest.txt
+INCLUDE items/scaling/mastite_armor/mage/chest.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1556
+name=Shadowforged Archwizard Skirt
+INCLUDE items/base/armor/mage_alt2/legs.txt
+INCLUDE items/scaling/mastite_armor/mage/legs.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1557
+name=Shadowforged Archwizard Boots
+INCLUDE items/base/armor/mage_alt2/feet.txt
+INCLUDE items/scaling/mastite_armor/mage/feet.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1558
+name=Shadowforged Archwizard Sleeves
+INCLUDE items/base/armor/mage_alt2/hands.txt
+INCLUDE items/scaling/mastite_armor/mage/hands.txt
+randomizer_def=items/random/dnf_boss_armor.txt
+
+[item]
+id=1559
+name=Shadowforged Greatsword
+INCLUDE items/base/weapons/melee/greatsword.txt
+INCLUDE items/scaling/mastite_weapon/melee.txt
+randomizer_def=items/random/dnf_boss_melee.txt
+
+[item]
+id=1560
+name=Shadowforged Greatbow
+INCLUDE items/base/weapons/ranged/greatbow.txt
+INCLUDE items/scaling/mastite_weapon/ranged.txt
+randomizer_def=items/random/dnf_boss_ranged.txt
+
+[item]
+id=1561
+name=Shadowforged Greatstaff
+INCLUDE items/base/weapons/magic/greatstaff.txt
+INCLUDE items/scaling/mastite_weapon/mental.txt
+randomizer_def=items/random/dnf_boss_mental.txt
+
+[item]
+id=1562
+name=Shadowforged Crest Shield
+INCLUDE items/base/shields/kite.txt
+INCLUDE items/scaling/mastite_armor/shield.txt
+randomizer_def=items/random/dnf_boss_armor.txt

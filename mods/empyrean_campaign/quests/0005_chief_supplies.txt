@@ -1,0 +1,14 @@
+name=村庄补给
+complete_status=chief_supplies_claimed
+
+[quest]
+requires_status=chief_supplies_accepted
+requires_not_status=chief_supplies_claimed
+requires_not_item=751:3
+quest_text=带3份芦荟回村交给村长；材料可从敌人掉落或商人处获得。
+
+[quest]
+requires_status=chief_supplies_accepted
+requires_not_status=chief_supplies_claimed
+requires_item=751:3
+quest_text=目标完成，回堕落港找村长提交并领取奖励。

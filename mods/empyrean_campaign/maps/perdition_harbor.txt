@@ -345,3 +345,14 @@ type=npc
 location=8,13,1,1
 filename=npcs/udana.txt
 
+[npc]
+# Repeatable three-room challenge dungeon entrance.
+type=npc
+location=19,23,1,1
+filename=npcs/dnf_gatekeeper.txt
+
+[npc]
+# Chinese streaming conversation with the village chief.
+type=npc
+location=18,21,1,1
+filename=npcs/village_chief.txt

@@ -45,3 +45,106 @@ bonus=7,fire_resist,40
 bonus=7,ice_resist,40
 bonus=7,lightning_resist,40
 bonus=7,dark_resist,40
+
+[set]
+id=5
+name=Crimson Vanguard
+color=255,105,85
+items=1600,1601,1602,1603,1604,1605
+bonus=2,physical,2
+bonus=4,attack_speed,106
+bonus=4,poise,8
+bonus_power_level=6,7,1
+
+[set]
+id=6
+name=Windrunner's Oath
+color=100,220,150
+items=1606,1607,1608,1609,1610,1611
+bonus=2,crit,3
+bonus=4,accuracy,8
+bonus=4,speed,135
+bonus_power_level=6,750,1
+
+[set]
+id=7
+name=Starfall Arcanum
+color=165,130,255
+items=1612,1613,1614,1615,1616,1617
+bonus=2,mp_regen,8
+bonus=4,dmg_ment_max,4
+bonus=4,mp,35
+bonus_power_level=6,122,1
+
+[set]
+id=8
+name=Titanbreaker Plate
+color=255,105,85
+items=1618,1619,1620,1621,1622,1623
+bonus=2,physical,4
+bonus=4,attack_speed,110
+bonus=4,poise,14
+bonus_power_level=6,7,1
+
+[set]
+id=9
+name=Silent Gale Leather
+color=100,220,150
+items=1624,1625,1626,1627,1628,1629
+bonus=2,crit,5
+bonus=4,accuracy,14
+bonus=4,speed,165
+bonus_power_level=6,750,1
+
+[set]
+id=10
+name=Astral Current Robes
+color=165,130,255
+items=1630,1631,1632,1633,1634,1635
+bonus=2,mp_regen,14
+bonus=4,dmg_ment_max,8
+bonus=4,mp,60
+bonus_power_level=6,122,1
+
+[set]
+id=11
+name=Dragonheart Bulwark
+color=255,105,85
+items=1636,1637,1638,1639,1640,1641
+bonus=2,physical,6
+bonus=4,attack_speed,114
+bonus=4,poise,20
+bonus_power_level=6,7,2
+
+[set]
+id=12
+name=Tempest Stalker
+color=100,220,150
+items=1642,1643,1644,1645,1646,1647
+bonus=2,crit,7
+bonus=4,accuracy,20
+bonus=4,speed,200
+bonus_power_level=6,750,2
+
+[set]
+id=13
+name=Celestial Convergence
+color=165,130,255
+items=1648,1649,1650,1651,1652,1653
+bonus=2,mp_regen,20
+bonus=4,dmg_ment_max,12
+bonus=4,mp,90
+bonus_power_level=6,122,2
+
+[set]
+id=14
+name=逐日·焚天
+color=255,190,55
+items=1702,1703,1704,1705,1706,1707
+bonus=2,dmg_ranged_min,8
+bonus=2,dmg_ranged_max,8
+bonus=2,crit,5
+bonus=4,attack_speed,110
+bonus=4,fire_resist,40
+bonus=6,speed,130
+bonus_power=6,792

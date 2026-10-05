@@ -1,10 +1,9 @@
-# layer=direction, list of types in order of appearance, first item will be printed on screen first
-layer=SW,main,feet,legs,hands,chest,off,head
-layer=W,main,feet,legs,hands,chest,off,head
-layer=NW,main,feet,legs,hands,chest,off,head
-layer=N,feet,legs,hands,chest,off,head,main
-layer=NE,feet,legs,hands,chest,off,head,main
-layer=E,feet,legs,hands,chest,off,head,main
-layer=SE,feet,legs,hands,main,chest,head,off
-layer=S,main,feet,legs,hands,chest,head,off
-
+# Chibi hero sprites are complete character images, so render only the main layer.
+layer=SW,main
+layer=W,main
+layer=NW,main
+layer=N,main
+layer=NE,main
+layer=E,main
+layer=SE,main
+layer=S,main

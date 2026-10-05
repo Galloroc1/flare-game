@@ -1,0 +1,15 @@
+image=images/powers/fireball.png
+
+[power]
+frames=8
+duration=600ms
+type=play_once
+active_frame=6
+frame=0,0,412,318,69,106,35,540
+frame=1,0,412,318,69,106,35,465
+frame=2,0,412,318,69,106,35,390
+frame=3,0,412,318,69,106,35,315
+frame=4,0,412,318,69,106,35,240
+frame=5,0,412,318,69,106,35,165
+frame=6,0,412,318,69,106,35,100
+frame=7,0,412,318,69,106,35,100

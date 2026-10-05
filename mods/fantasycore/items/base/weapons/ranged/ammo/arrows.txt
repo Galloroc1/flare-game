@@ -4,4 +4,8 @@ replace_power=4,190
 replace_power=8,191
 replace_power=16,192
 replace_power=23,193
-
+replace_power=200,220
+replace_power=206,221
+replace_power=207,222
+replace_power=201,223
+replace_power=202,224

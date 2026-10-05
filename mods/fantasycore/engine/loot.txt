@@ -8,7 +8,7 @@ tooltip_margin=128
 
 # Autopickup
 autopickup_currency=1
-autopickup_range=1
+autopickup_range=2
 
 # Currency
 currency_name=Gold

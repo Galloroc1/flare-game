@@ -1,0 +1,5 @@
+name=新手村村长
+animations=animations/npcs/peasant_man1.txt
+portrait=images/portraits/village_chief.png
+talker=true
+ai_chat=true

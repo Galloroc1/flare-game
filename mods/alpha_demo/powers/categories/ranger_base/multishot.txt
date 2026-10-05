@@ -3,6 +3,9 @@ icon=8
 description=Shoot three projectiles simultaneously
 new_state=shoot
 face=true
+multitarget=true
+piercing_passive_id=203
+elemental_passive_id=204
 count=3
 missile_angle=15
 requires_mp=2
@@ -14,4 +17,3 @@ starting_pos=melee
 lifespan=533ms
 radius=1.0
 speed=24
-

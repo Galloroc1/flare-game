@@ -1,0 +1,667 @@
+# Class equipment sets at levels 10, 15, and 20. Each set has 5 armor pieces and a class weapon.
+
+[item]
+id=1600
+name=Crimson Vanguard Helm
+INCLUDE items/base/armor/plate/head.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+abs=7,8
+bonus=physical,2
+
+[item]
+id=1601
+name=Crimson Vanguard Cuirass
+INCLUDE items/base/armor/plate/chest.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+abs=8,9
+bonus=physical,2
+
+[item]
+id=1602
+name=Crimson Vanguard Greaves
+INCLUDE items/base/armor/plate/legs.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+abs=7,8
+bonus=physical,2
+
+[item]
+id=1603
+name=Crimson Vanguard Boots
+INCLUDE items/base/armor/plate/feet.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+abs=6,7
+bonus=physical,2
+
+[item]
+id=1604
+name=Crimson Vanguard Gloves
+INCLUDE items/base/armor/plate/hands.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+abs=6,7
+bonus=physical,2
+
+[item]
+id=1605
+name=Crimson Vanguard Greatweapon
+INCLUDE items/base/weapons/melee/greatsword.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Brute
+dmg=melee,34,34
+requires_stat=physical,15
+bonus=dmg_melee_min,3
+bonus=dmg_melee_max,3
+
+[item]
+id=1606
+name=Windrunner's Oath Helm
+INCLUDE items/base/armor/leather/head.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+abs=7,8
+bonus=offense,2
+
+[item]
+id=1607
+name=Windrunner's Oath Cuirass
+INCLUDE items/base/armor/leather/chest.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+abs=8,9
+bonus=offense,2
+
+[item]
+id=1608
+name=Windrunner's Oath Greaves
+INCLUDE items/base/armor/leather/legs.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+abs=7,8
+bonus=offense,2
+
+[item]
+id=1609
+name=Windrunner's Oath Boots
+INCLUDE items/base/armor/leather/feet.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+abs=6,7
+bonus=offense,2
+
+[item]
+id=1610
+name=Windrunner's Oath Gloves
+INCLUDE items/base/armor/leather/hands.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+abs=6,7
+bonus=offense,2
+
+[item]
+id=1611
+name=Windrunner's Oath Greatweapon
+INCLUDE items/base/weapons/ranged/greatbow.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Scout
+dmg=ranged,34,34
+requires_stat=offense,15
+bonus=dmg_ranged_min,3
+bonus=dmg_ranged_max,3
+
+[item]
+id=1612
+name=Starfall Arcanum Helm
+INCLUDE items/base/armor/mage_alt1/head.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+abs=7,8
+bonus=mental,2
+
+[item]
+id=1613
+name=Starfall Arcanum Cuirass
+INCLUDE items/base/armor/mage_alt1/chest.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+abs=8,9
+bonus=mental,2
+
+[item]
+id=1614
+name=Starfall Arcanum Greaves
+INCLUDE items/base/armor/mage_alt1/legs.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+abs=7,8
+bonus=mental,2
+
+[item]
+id=1615
+name=Starfall Arcanum Boots
+INCLUDE items/base/armor/mage_alt1/feet.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+abs=6,7
+bonus=mental,2
+
+[item]
+id=1616
+name=Starfall Arcanum Gloves
+INCLUDE items/base/armor/mage_alt1/hands.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+abs=6,7
+bonus=mental,2
+
+[item]
+id=1617
+name=Starfall Arcanum Greatweapon
+INCLUDE items/base/weapons/magic/greatstaff.txt
+level=10
+quality=epic
+price=1000
+requires_level=10
+requires_class=Adept
+dmg=ment,34,34
+requires_stat=mental,15
+bonus=dmg_ment_min,3
+bonus=dmg_ment_max,3
+
+[item]
+id=1618
+name=Titanbreaker Plate Helm
+INCLUDE items/base/armor/plate/head.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+abs=10,11
+bonus=physical,3
+
+[item]
+id=1619
+name=Titanbreaker Plate Cuirass
+INCLUDE items/base/armor/plate/chest.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+abs=11,12
+bonus=physical,3
+
+[item]
+id=1620
+name=Titanbreaker Plate Greaves
+INCLUDE items/base/armor/plate/legs.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+abs=10,11
+bonus=physical,3
+
+[item]
+id=1621
+name=Titanbreaker Plate Boots
+INCLUDE items/base/armor/plate/feet.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+abs=9,10
+bonus=physical,3
+
+[item]
+id=1622
+name=Titanbreaker Plate Gloves
+INCLUDE items/base/armor/plate/hands.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+abs=9,10
+bonus=physical,3
+
+[item]
+id=1623
+name=Titanbreaker Plate Greatweapon
+INCLUDE items/base/weapons/melee/greatsword.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Brute
+dmg=melee,46,46
+requires_stat=physical,17
+bonus=dmg_melee_min,4
+bonus=dmg_melee_max,4
+
+[item]
+id=1624
+name=Silent Gale Leather Helm
+INCLUDE items/base/armor/leather/head.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+abs=10,11
+bonus=offense,3
+
+[item]
+id=1625
+name=Silent Gale Leather Cuirass
+INCLUDE items/base/armor/leather/chest.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+abs=11,12
+bonus=offense,3
+
+[item]
+id=1626
+name=Silent Gale Leather Greaves
+INCLUDE items/base/armor/leather/legs.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+abs=10,11
+bonus=offense,3
+
+[item]
+id=1627
+name=Silent Gale Leather Boots
+INCLUDE items/base/armor/leather/feet.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+abs=9,10
+bonus=offense,3
+
+[item]
+id=1628
+name=Silent Gale Leather Gloves
+INCLUDE items/base/armor/leather/hands.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+abs=9,10
+bonus=offense,3
+
+[item]
+id=1629
+name=Silent Gale Leather Greatweapon
+INCLUDE items/base/weapons/ranged/greatbow.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Scout
+dmg=ranged,46,46
+requires_stat=offense,17
+bonus=dmg_ranged_min,4
+bonus=dmg_ranged_max,4
+
+[item]
+id=1630
+name=Astral Current Robes Helm
+INCLUDE items/base/armor/mage_alt1/head.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+abs=10,11
+bonus=mental,3
+
+[item]
+id=1631
+name=Astral Current Robes Cuirass
+INCLUDE items/base/armor/mage_alt1/chest.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+abs=11,12
+bonus=mental,3
+
+[item]
+id=1632
+name=Astral Current Robes Greaves
+INCLUDE items/base/armor/mage_alt1/legs.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+abs=10,11
+bonus=mental,3
+
+[item]
+id=1633
+name=Astral Current Robes Boots
+INCLUDE items/base/armor/mage_alt1/feet.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+abs=9,10
+bonus=mental,3
+
+[item]
+id=1634
+name=Astral Current Robes Gloves
+INCLUDE items/base/armor/mage_alt1/hands.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+abs=9,10
+bonus=mental,3
+
+[item]
+id=1635
+name=Astral Current Robes Greatweapon
+INCLUDE items/base/weapons/magic/greatstaff.txt
+level=15
+quality=rare
+price=1500
+requires_level=15
+requires_class=Adept
+dmg=ment,46,46
+requires_stat=mental,17
+bonus=dmg_ment_min,4
+bonus=dmg_ment_max,4
+
+[item]
+id=1636
+name=Dragonheart Bulwark Helm
+INCLUDE items/base/armor/plate/head.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+abs=13,14
+bonus=physical,4
+
+[item]
+id=1637
+name=Dragonheart Bulwark Cuirass
+INCLUDE items/base/armor/plate/chest.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+abs=14,15
+bonus=physical,4
+
+[item]
+id=1638
+name=Dragonheart Bulwark Greaves
+INCLUDE items/base/armor/plate/legs.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+abs=13,14
+bonus=physical,4
+
+[item]
+id=1639
+name=Dragonheart Bulwark Boots
+INCLUDE items/base/armor/plate/feet.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+abs=12,13
+bonus=physical,4
+
+[item]
+id=1640
+name=Dragonheart Bulwark Gloves
+INCLUDE items/base/armor/plate/hands.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+abs=12,13
+bonus=physical,4
+
+[item]
+id=1641
+name=Dragonheart Bulwark Greatweapon
+INCLUDE items/base/weapons/melee/greatsword.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Brute
+dmg=melee,58,58
+requires_stat=physical,20
+bonus=dmg_melee_min,5
+bonus=dmg_melee_max,5
+
+[item]
+id=1642
+name=Tempest Stalker Helm
+INCLUDE items/base/armor/leather/head.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+abs=13,14
+bonus=offense,4
+
+[item]
+id=1643
+name=Tempest Stalker Cuirass
+INCLUDE items/base/armor/leather/chest.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+abs=14,15
+bonus=offense,4
+
+[item]
+id=1644
+name=Tempest Stalker Greaves
+INCLUDE items/base/armor/leather/legs.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+abs=13,14
+bonus=offense,4
+
+[item]
+id=1645
+name=Tempest Stalker Boots
+INCLUDE items/base/armor/leather/feet.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+abs=12,13
+bonus=offense,4
+
+[item]
+id=1646
+name=Tempest Stalker Gloves
+INCLUDE items/base/armor/leather/hands.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+abs=12,13
+bonus=offense,4
+
+[item]
+id=1647
+name=Tempest Stalker Greatweapon
+INCLUDE items/base/weapons/ranged/greatbow.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Scout
+dmg=ranged,58,58
+requires_stat=offense,20
+bonus=dmg_ranged_min,5
+bonus=dmg_ranged_max,5
+
+[item]
+id=1648
+name=Celestial Convergence Helm
+INCLUDE items/base/armor/mage_alt1/head.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+abs=13,14
+bonus=mental,4
+
+[item]
+id=1649
+name=Celestial Convergence Cuirass
+INCLUDE items/base/armor/mage_alt1/chest.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+abs=14,15
+bonus=mental,4
+
+[item]
+id=1650
+name=Celestial Convergence Greaves
+INCLUDE items/base/armor/mage_alt1/legs.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+abs=13,14
+bonus=mental,4
+
+[item]
+id=1651
+name=Celestial Convergence Boots
+INCLUDE items/base/armor/mage_alt1/feet.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+abs=12,13
+bonus=mental,4
+
+[item]
+id=1652
+name=Celestial Convergence Gloves
+INCLUDE items/base/armor/mage_alt1/hands.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+abs=12,13
+bonus=mental,4
+
+[item]
+id=1653
+name=Celestial Convergence Greatweapon
+INCLUDE items/base/weapons/magic/greatstaff.txt
+level=20
+quality=shadowforged
+price=2000
+requires_level=20
+requires_class=Adept
+dmg=ment,58,58
+requires_stat=mental,20
+bonus=dmg_ment_min,5
+bonus=dmg_ment_max,5
